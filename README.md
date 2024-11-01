@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ritik Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m a Full Stack Developer in **MERN Stack**
 
 - 👨‍💻 All of my projects are available at (https://ritik-katariya.netlify.app/)
 
-- 💬 Ask me about **React Js**
+- 💬 Ask me about **MERN**
 
-- 📫 How to reach me **ritikkumar790667@gmail.com**
+- 📫 How to reach me **matrix.002808@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SeHo_uS71fkmYBIvgUZGGqbWgg4BvtdL/view?usp=sharing](https://drive.google.com/file/d/1SeHo_uS71fkmYBIvgUZGGqbWgg4BvtdL/view?usp=sharing)
+- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1SeHo_uS71fkmYBIvgUZGGqbWgg4BvtdL/view?usp=sharing](https://drive.google.com/file/d/1v14RJJspFLwRU5L8UBy_kVDzmQP_7Pxn/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
