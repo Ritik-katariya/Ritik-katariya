@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **matrix.002808@gmail.com**
 
-- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1SeHo_uS71fkmYBIvgUZGGqbWgg4BvtdL/view?usp=sharing](https://drive.google.com/file/d/1v14RJJspFLwRU5L8UBy_kVDzmQP_7Pxn/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1v14RJJspFLwRU5L8UBy_kVDzmQP_7Pxn/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
